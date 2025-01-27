@@ -535,8 +535,7 @@ Make sure you include both your runscript, an explanation of how to use your scr
 
 ### Explanation of how to use your script
 
-Include a detailed explanation of how to use your script and how you use your script to generate your answers (this will be more applicable in future assignments).
-Make sure that all paths are relative to this directory (`assignment-1/`).
+Include a detailed explanation of how to use your script and how you use your script to generate your answers.
 The code included in the "Example command to run the script" section should be able to be copied and pasted into a terminal and run without modification.
 
 - You should include a sentence or two which describes what the script (or scripts) do under "Explanation of the script" in `questions.md`.
@@ -554,6 +553,7 @@ The code included in the "Example command to run the script" section should be a
 
 ## Academic misconduct reminder
 
-You are required to work on this assignment in teams. You are only allowed to share you scripts and code with your teammate(s). You may discuss high level concepts with others in the class but all the work must be completed by your team and your team only.
+You are required to work on this assignment individually.
+You may discuss high level concepts with others in the class but all the work must be completed by yourself.
 
 Remember, DO NOT POST YOUR CODE PUBLICLY ON GITHUB! Any code found on GitHub that is not the base template you are given will be reported to SJA. If you want to sidestep this problem entirely, don’t create a public fork and instead create a private repository to store your work.
