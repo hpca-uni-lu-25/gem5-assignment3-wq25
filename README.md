@@ -1,6 +1,6 @@
 ---
 Author: Jason Lowe-Power
-Editor:  Maryam Babaie, Mahyar Samani, Kaustav Goswami
+Editor:  Maryam Babaie, Mahyar Samani, Kaustav Goswami, Mats Brorsson
 Title: Out-of-Order Core Designs
 ---
 
@@ -524,7 +524,7 @@ The workloads show different behaviors with some more sensitive to the width of 
 
 ## Submission
 
-You will submit this assignment via GitHub Classroom.
+You will submit this assignment via GitHub Classroom and a pdf-copy of questions.md in Moodle.
 
 1. Accept the assignment by clicking on the link provided in the announcement.
 2. Create a Codespace for the assignment on your repository.
@@ -547,9 +547,10 @@ The code included in the "Example command to run the script" section should be a
 
 ## Grading
 
-- **25 points** gem5 experiment script and explanation of how to use your script
-- **75 points** for the questions in the report
-- **25 points** for the next steps
+- **20 points** gem5 experiment script and explanation of how to use your script
+- **50 points** for the questions in the report
+- **30 points** for the workload analysis
+
 
 ## Academic misconduct reminder
 
