@@ -4,7 +4,6 @@ Editor:  Maryam Babaie, Mahyar Samani, Kaustav Goswami, Mats Brorsson
 Title: Out-of-Order Core Designs
 ---
 
-**Due on 2/3 (Monday) 11:59 pm (PST)**: See [Submission](#submission) for details
 
 ## Table of Contents
 
